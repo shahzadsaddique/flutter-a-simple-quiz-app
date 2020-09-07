@@ -1,4 +1,4 @@
-# flutter_a_simple_quiz_app
+# flutter: A simple quiz app
 
 A new Flutter application.
 
